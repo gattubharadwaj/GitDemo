@@ -31,8 +31,8 @@ public class HomePageTestCase extends Base {
 		LoginPage ln=new LoginPage(driver);
 		ln.getUserName().sendKeys(username);
 		ln.getPassoword().sendKeys(password);
-		System.out.println("zxcvbv");
-		System.out.println("asdfgf");
+		System.out.println("abcd");
+		System.out.println("efgh");
 		System.out.println("qwertr");
 		System.out.println("poiuyu");
 	//	System.out.println(text);
